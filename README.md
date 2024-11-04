@@ -15,7 +15,7 @@ A simple blog application built with **Express**, **MongoDB Atlas**, and **Mongo
 - **Mongoose**: ODM for MongoDB
 - **Nodemon**: Development tool for auto-reloading
 
-The API will be running on **https://localhost:4000/api/v1**
+The API will be running on **http://localhost:4000/api/v1**
 
 ## 📡 API Endpoints
 1. POST **/comments/create**: Create a comment
