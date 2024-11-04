@@ -22,7 +22,7 @@ A simple blog application built with **Express**, **MongoDB Atlas**, and **Mongo
 4. POST **/likes/unlike**: Unlike a post
 5. GET **/posts**: Retrieve all posts
 
-📚 Usage
+## 📚 Usage
 1. **Create Post**: Send a POST request to /posts/create with post data.
 2. **Comment**: Send a POST request to /comments/create with comment data.
 3. **Like Post**: Send a POST request to /likes/like with post ID.
